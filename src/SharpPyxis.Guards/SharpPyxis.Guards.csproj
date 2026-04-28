@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
+    <RootNamespace>SharpPyxis.Guards</RootNamespace>
+    <PackageId>SharpPyxis.Guards</PackageId>
+    <Description>Guard helpers and UserFacingException for argument validation and safe error surfacing. Zero dependencies.</Description>
+    <PackageTags>guard;validation;argument;exception;primitives</PackageTags>
+  </PropertyGroup>
+
+</Project>

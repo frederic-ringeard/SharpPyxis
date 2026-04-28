@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
+    <RootNamespace>SharpPyxis.Results</RootNamespace>
+    <PackageId>SharpPyxis.Results</PackageId>
+    <Description>Lightweight Result&lt;T&gt; and Error primitives for .NET. Zero dependencies.</Description>
+    <PackageTags>result;error;either;functional;primitives</PackageTags>
+  </PropertyGroup>
+
+</Project>
